@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import dao.TypeDao;
 import dao.Implementation.TypeDaoImpl;
 import entity.Type;
+import entity.TypeServiceException;
 import exception.TypeDaoException;
-import exception.TypeServiceException;
 
 public class TypeServiceImpl implements TypeService {
 

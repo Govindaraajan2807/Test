@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 import entity.Type;
-import exception.TypeServiceException;
+import entity.TypeServiceException;
 import entity.Watch;
 import service.TypeService;
 import service.WatchService;

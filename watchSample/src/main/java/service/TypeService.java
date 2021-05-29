@@ -1,9 +1,9 @@
 package service;
 
 import java.sql.SQLException;
-import exception.TypeServiceException;
 
 import entity.Type;
+import entity.TypeServiceException;
 
 public interface TypeService {
 

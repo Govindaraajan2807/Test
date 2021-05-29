@@ -1,4 +1,6 @@
-package exception;
+package entity;
+
+import exception.AppException;
 
 public class TypeServiceException extends AppException{
 
